@@ -37,6 +37,22 @@ and
 
 then in vim run :PlugInstall
 
+### Vundle ###
+Add:
+
+``Plug 'Rasengangstarr/vascii'``
+
+To your .vimrc
+
+between
+
+```call vundle#begin()```
+
+and
+
+```call vundle#end()```
+
+then in vim run :PlugInstall
 ## Usage ##
 
 type something like the following:
