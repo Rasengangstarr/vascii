@@ -15,6 +15,10 @@ On Ubuntu:
 
 ``sudo pacman -S jp2a``
 
+On Mac:
+
+``brew install jp2a``
+
 Or search for install instructions on your distribution.
 
 ## Installation ##
