@@ -3,7 +3,7 @@ A vim plug to paste images as ascii art into text files
 
 ## Prerequisites ##
 
-You will need to install [https://github.com/cslarsen/jp2a|Jp2a] to use this plugin.
+You will need to install [https://github.com/cslarsen/jp2a] to use this plugin.
 
 On Ubuntu:
 
