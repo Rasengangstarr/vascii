@@ -45,9 +45,9 @@ type something like the following:
 
 from within vim on its own line, move your cursor to the line and run
 
-```:Vascii```
+```:Vascii 60```
 
-This should paste the image into your document as ascii art.
+This should paste the image into your document as ascii art with a width of 60
 
 You can also use relative and absolute paths.
 
