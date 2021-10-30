@@ -67,7 +67,3 @@ This should paste the image into your document as ascii art with a width of 60
 
 You can also use relative and absolute paths.
 
-
-## Todo ##
-
-* Allow the user to enter a width for the image
